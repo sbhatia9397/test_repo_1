@@ -1,4 +1,5 @@
-def test():
-    return("hello world")
+text = "Hello World"
+def test(x):
+    return(x)
 
-test()
+print test(text)
