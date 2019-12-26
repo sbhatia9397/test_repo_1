@@ -1,8 +1,6 @@
 
-defSayHello():
-   "optional documentation string"
-   print "Hello World"
-   return
+def SayHello():
+   return ("Hello World")
 
 
 SayHello()
